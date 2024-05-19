@@ -8,9 +8,7 @@ This project reads data from `lastlog.txt` and `usage.txt`, processes user stora
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Description
 
@@ -57,3 +55,4 @@ To run the script and generate the report, execute:
 
 ```bash
 python server.py
+```
